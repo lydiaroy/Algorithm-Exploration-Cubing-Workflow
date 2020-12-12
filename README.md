@@ -1,4 +1,5 @@
-# Algorithm-Exploration-Cubing-Workflow
+# Algorithm Exploration - Cubing Workflow
+*ICS4U*
 
 ## Type of cube
 The type of cube I will be using and learning to solve is the Pyraminx.
