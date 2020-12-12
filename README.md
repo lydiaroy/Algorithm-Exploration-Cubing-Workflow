@@ -1,5 +1,4 @@
 # Algorithm Exploration - Cubing Workflow
-*ICS4U*
 
 ## Type of cube
 The type of cube I will be using and learning to solve is the Pyraminx.
@@ -22,8 +21,12 @@ My current goals are
 * Be able to solve the Pyraminx by myself
 
 # Records of Solve Times
-| Date and Time | AO5   | AO12  | AO25  |
-| ------------- |-------|-------|-------| 
-| 00/00/00      |       |       |       |
-| 00/00/00      |       |       |       |
-| 00/00/00      |       |       |       |
+| Date and Time    | AO5   | AO12  | AO25  |
+| -----------------|-------|-------|-------| 
+| 00/00/00 00:00   |       |       |       |
+| 00/00/00 00:00   |       |       |       |
+| 00/00/00 00:00   |       |       |       |
+| 00/00/00 00:00   |       |       |       |
+| 00/00/00 00:00   |       |       |       |
+| 00/00/00 00:00   |       |       |       |
+| 00/00/00 00:00   |       |       |       |
