@@ -29,4 +29,6 @@ My current goals are
 | 00/00/00 00:00   |       |       |       |
 | 00/00/00 00:00   |       |       |       |
 | 00/00/00 00:00   |       |       |       |
-| 00/00/00 00:00   |       |       |       |
+| 00/00/00 00:00   |       |       |       |  
+
+*I plan to use [This site](https://cubingtime.com/) to time my solves.*
