@@ -23,7 +23,7 @@ My current goals are
 # Records of Solve Times
 | Date and Time    | AO5   | AO12  | AO25  |
 | -----------------|-------|-------|-------| 
-| 12/12/20 13:30   |11:29.3|11:20.2| \\\\  |
+| 12/12/20 13:30   |11:29.3|11:20.2|11:25.6|
 | 14/12/20 16:00   |11:17.2|11.19.6| \\\\  |
 | 15/12/20 16:00   |10:56.7|10:54.9| \\\\  |
 | 16/12/20 19:00   |10:55.8|11:09.4| \\\\  |
@@ -38,6 +38,6 @@ I learnt that solving a Pyraminx is a lot harder than it seems. I often lost foc
 ---
 
 ## Final Notes  
-* I found I often got worse the more I went in one session, I think this is because I had a tendancy to get frusterated with myself/the Pyraminx
-* I did not improve much over the week, I think this is due to, again, frusteration and the fact that I need more time to practice
+* I found I often got worse the more I went in one session, I think this is because I had a tendancy to get frustrated with myself/the Pyraminx
+* I did not improve much over the week, I think this is due to, again, frustration and the fact that I need more time to practice
 * More practice is required, but I did understand more as I practiced
