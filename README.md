@@ -30,4 +30,14 @@ My current goals are
 | 17/12/20 17:00   |10:53.5|10:51.2| \\\\  |  
 
 *I did not have time to solve for AO25, but a new goal of mine will be to get it low enough to do that*  
-*I plan to use [this site](https://cubingtime.com/) to time my solves.*
+*I plan to use [this site](https://cubingtime.com/) to time my solves.*  
+
+## Some Things I Learnt  
+I learnt that solving a Pyraminx is a lot harder than it seems. I often lost focus, or found myself unable to continue more than an Average of 12. I do believe that I require a lot more practice, and hopefully I would be able to get it to 10 minutes or below. I also need to do more reasearch, as I got confused when watching videos, or had to scrap entire runs because I needed to give my mind a rest. I was, however, able to understand the algorithms, I just have trouble knowing when to apply them. I found it helpful to make drawings or write them down so I would know when to use them. Finally, I do believe this is something that could be used to further understand algorithms as a whole, and this project was a very interesting one to complete.
+
+---
+
+## Final Notes  
+* I found I often got worse the more I went in one session, I think this is because I had a tendancy to get frusterated with myself/the Pyraminx
+* I did not improve much over the week, I think this is due to, again, frusteration and the fact that I need more time to practice
+* More practice is required, but I did understand more as I practiced
