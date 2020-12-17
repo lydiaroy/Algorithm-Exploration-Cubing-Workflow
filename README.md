@@ -27,6 +27,7 @@ My current goals are
 | 14/12/20 16:00   |11:17.2|11.19.6| \\\\  |
 | 15/12/20 16:00   |10:56.7|10:54.9| \\\\  |
 | 16/12/20 19:00   |10:55.8|11:09.4| \\\\  |
-| 17/12/20 16:00   |10:53.5|10:51.2| \\\\  |  
+| 17/12/20 17:00   |10:53.5|10:51.2| \\\\  |  
 
+*I did not have time to solve for AO25, but a new goal of mine will be to get it low enough to do that*
 *I plan to use [this site](https://cubingtime.com/) to time my solves.*
